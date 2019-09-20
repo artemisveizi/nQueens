@@ -1,8 +1,3 @@
-# Artemis Veizi
-# Block: 7
-# artemis.veizi@live.com
-
-
 import time
 import math
 import heapq
